@@ -6,6 +6,9 @@
 ## Windows小技巧
 
 
+### 预告
+1. 如何使用docker定期为freenom域名续费。
+
 
 
 ### 预告
